@@ -13,3 +13,5 @@ The following table contains the set of skills available for Caleb:
 |Wiki|`"tell me about Michael Jackson"` |
 |Wemo|`"turn the lights on in the kitchen"` |
 |Thermostat|`"set the temperature to 25 degrees"` |
+|Jokes|`"tell me a joke"` |
+|News|`"News for today"` |
