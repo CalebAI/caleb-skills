@@ -9,3 +9,5 @@ The following table contains the set of skills available for Caleb:
 |Date and time         |`"what time is it?"`      |
 |Weather           |`"what's the weather in New York?"` |
 |Wake up|`"are you there?"` |
+|Sleep|`"good night"` |
+|Wiki|`"tell me about Michael Jackson"` |
